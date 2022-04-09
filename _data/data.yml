@@ -78,13 +78,39 @@ experiences:
           - Developing utilities to improve workflows (scripting in VBA, powershell)
           - Troubleshooting instrumentation, networking, power systems
 trainings:
-    - role: Electrical Specialist
-      time: February 2022 - Present
-      company: Propak Systems Ltd., Airdrie, AB
+    - role: Ignition Certification 8.1
+      time: January 2021
+      company: Inductive University
       details: |
-        Design and development of specifications for control systems, and power systems for use in industrial processing facilities. 
-          - Interpreting client design specifications
-          - Developing scopes of work packages
+        Developmen
+      
+    - role: ICS Cybersecurity and Evaluation
+      time: November 2020
+      company: Cybersecurity and Infrastructure Association
+      details: |
+        Protecting and securing industrial control systems.
+ 
+    - role: Evolve Security Certified Professional
+      time: October 2018 - December 2018
+      company: Evolve Security Academy, Chicago, IL
+      details: |
+        4 month bootcamp for enterprise level cybersecurity training. Risk assessments, penetration testing, 
+        network design, and social engineering.
+      
+    - role: Certified Fiber Optics Technician
+      time: September 2014
+      company: 9 micron, Calgary, AB
+      details: |
+        Basics of fiber optics, designing networks, and hands on termination
+      
+    - role: DeltaV Advanced Graphics
+      time: March 2014
+      company: Spartan Controls, Edmonton, AB 
+
+    - role: DeltaV Advanced Process Control
+      time: February 2014
+      company: Emerson, Round Rock, TX
+
 
 education:
     - degree: Electrical Engineering Technology (Honours)
