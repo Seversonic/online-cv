@@ -46,6 +46,7 @@ career-profile:
       Second paragraph if required.
 
 experiences:
+    title: Experience
     - role: Electrical Specialist
       time: February 2022 - Present
       company: Propak Systems Ltd., Airdrie, AB
