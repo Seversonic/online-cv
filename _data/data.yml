@@ -126,7 +126,9 @@ projects:
       - title: TwinCAT Libre
         link: "https://twincat-libre.github.io/"
         tagline: "Open source libraries and examples for TwinCAT 3"
-
+      - title: Megacmd Docker
+        link: "https://github.com/Seversonic/megaCMD-docker"
+        tagline: "Docker container for syncing files with Mega online storage"
 skills:
     title: Skills &amp; Proficiency
 
