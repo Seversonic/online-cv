@@ -38,62 +38,44 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Self directed self starter and expert problem solver. Passionate about the devices that make the world work! 
+      Currently exploring Docker, TwinCAT, Codesys and contributing to open source learning initiatives and software.
 
 experiences:
-    title: Experience
     - role: Electrical Specialist
       time: February 2022 - Present
       company: Propak Systems Ltd., Airdrie, AB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Design and development of specifications for control systems, and power systems for use in industrial processing facilities. 
+          - Interpreting client design specifications
+          - Developing scopes of work packages
+          
           
     - role: Control Systems Specialist
       time: January 2019 - February 2022
       company: Attabotics Inc., Calgary, AB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Designing and supporting control systems for automated storage and retrieval systems. 
+          - Control panel design
+          - PLC and HMI programming (Beckhoff, Siemens)
+          - Product development and scoping
+          - Supporting manufacturing engineering with machine upgrades and troubleshooting
+          - Developing PLC software utilities (C#) for field service teams
+          - Managing third party designs for custom in house products
+          - Interpreting and application of IEC standards to machinery designs
           
     - role: Control Systems Specialist
       time: September 2013 - January 2019
       company: Propak Systems Ltd., Airdrie, AB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Development and commissioning and startup support for distributed control systems used in energy production facilities.
+          - DCS, PLC and HMI development (DeltaV, Rockwell, GE)
+          - Configuration of core OT networking equipment (switches, virtualized servers)
+          - Development of standard code libraries for PLCs and DCSs
+          - Inegrating Modbus, OPC, and Ethernet/IP devices into site control systems
+          - Creating and maintaining databases in Microsoft Access
+          - Developing utilities to improve workflows (scripting in VBA, powershell)
+          - Troubleshooting instrumentation, networking, power systems
 
 education:
     - degree: Electrical Engineering Technology (Honours)
@@ -133,6 +115,9 @@ skills:
 
       - name: Docker
         level: 50%
+        
+      - name: Networking
+        level: 70%
 
 
 footer: >
