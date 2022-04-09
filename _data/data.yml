@@ -69,7 +69,6 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    title: Experience
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -115,13 +114,6 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-        
- Training:
-    title: Training
-
-    toolset:
-      - name: Python & Django
-        level: 98%
 
 
 footer: >
