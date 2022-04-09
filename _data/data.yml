@@ -77,6 +77,14 @@ experiences:
           - Creating and maintaining databases in Microsoft Access
           - Developing utilities to improve workflows (scripting in VBA, powershell)
           - Troubleshooting instrumentation, networking, power systems
+training:
+    - role: Electrical Specialist
+      time: February 2022 - Present
+      company: Propak Systems Ltd., Airdrie, AB
+      details: |
+        Design and development of specifications for control systems, and power systems for use in industrial processing facilities. 
+          - Interpreting client design specifications
+          - Developing scopes of work packages
 
 education:
     - degree: Electrical Engineering Technology (Honours)
