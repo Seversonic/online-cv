@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -18,7 +18,6 @@ sidebar:
     website: 
     linkedin: ryan-severson
     github: Seversonic
-    github: TwinCAT-Libre
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
@@ -45,33 +44,43 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-    - degree: Electrical Engineering Technology (Honours)
-      university: Southern Alberta Institue of Technology
-      time: 2010 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: AutoCAD Operator Certificate
-      university: Bow Valley College
-      time: 2010
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Electrical Specialist
+      time: February 2022 - Present
+      company: Propak Systems Ltd., Airdrie, AB
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+          
+    - role: Control Systems Specialist
+      time: January 2019 - February 2022
+      company: Attabotics Inc., Calgary, AB
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+          
+    - role: Control Systems Specialist
+      time: September 2013 - January 2019
+      company: Propak Systems Ltd., Airdrie, AB
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -85,6 +94,15 @@ experiences:
           - Bullet point
           - Bullet point
 
+education:
+    - degree: Electrical Engineering Technology (Honours)
+      university: Southern Alberta Institue of Technology
+      time: 2010 - 2013
+      
+    - degree: AutoCAD Operator Certificate
+      university: Bow Valley College
+      time: 2010
+
 projects:
     title: Projects
     intro: 
@@ -97,23 +115,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Beckhoff
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Allen Bradley
+        level: 80%
+
+      - name: Siemens TIA Portal
+        level: 40%
+
+      - name: HTML5 & CSS
+        level: 35%
+
+      - name: Electrical Design
+        level: 50%
+
+      - name: Docker
+        level: 50%
 
 
 footer: >
