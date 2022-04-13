@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ryan Severson C.E.T.
@@ -59,7 +59,7 @@ experiences:
         Designing and supporting control systems for automated storage and retrieval systems. 
           - Control panel design
           - PLC and HMI programming (Beckhoff, Siemens)
-          - Product development and scoping
+          - New product development and scoping (equipment selection, validation)
           - Supporting manufacturing engineering with machine upgrades and troubleshooting
           - Developing PLC software utilities (C#) for field service teams
           - Managing third party designs for custom in house products
