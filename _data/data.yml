@@ -57,8 +57,11 @@ experiences:
       company: Attabotics Inc., Calgary, AB
       details: |
         Designing and supporting control systems for automated storage and retrieval systems. 
-          - Control panel design
           - PLC and HMI programming (Beckhoff, Siemens)
+          - Supporting field service teams with control system implementations
+          - Developing in-house wikis and knowledgebases for troubleshooting machines
+          - Taking prototypes from concept to prototype to commercialization 
+          - Control panel design
           - New product development and scoping (equipment selection, validation)
           - Supporting manufacturing engineering with machine upgrades and troubleshooting
           - Developing PLC software utilities (C#) for field service teams
@@ -73,10 +76,12 @@ experiences:
           - DCS, PLC and HMI development (DeltaV, Rockwell, GE)
           - Configuration of core OT networking equipment (switches, virtualized servers)
           - Development of standard code libraries for PLCs and DCSs
-          - Inegrating Modbus, OPC, and Ethernet/IP devices into site control systems
+          - Integrating Modbus, OPC, and Ethernet/IP devices into site control systems
           - Creating and maintaining databases in Microsoft Access
           - Developing utilities to improve workflows (scripting in VBA, powershell)
-          - Troubleshooting instrumentation, networking, power systems
+          - Troubleshooting instrumentation, networking, and power systems (24VDC - 4160VAC)
+          - Supporting clients remotely and on site for control system upgrades, failures, and training
+          
 trainings:
     - role: Ignition Certification 8.1
       time: January 2021
@@ -112,7 +117,7 @@ trainings:
 
 education:
     - degree: Electrical Engineering Technology (Honours)
-      university: Southern Alberta Institue of Technology
+      university: Southern Alberta Institute of Technology
       time: 2010 - 2013
       
     - degree: AutoCAD Operator Certificate
