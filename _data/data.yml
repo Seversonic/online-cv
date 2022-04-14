@@ -158,6 +158,15 @@ skills:
         
       - name: Networking
         level: 70%
+        
+      - name: Linux
+        level: 70%
+        
+      - name: Windows 
+        level: 90%
+        
+      - name: Microsoft Office 
+        level: 95%
 
 
 footer: >
