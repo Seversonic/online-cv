@@ -155,12 +155,6 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Beckhoff
-        level: 85%
-
-      - name: Allen Bradley
-        level: 80%
-
       - name: Siemens TIA Portal
         level: 40%
 
