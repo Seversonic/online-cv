@@ -24,6 +24,13 @@ sidebar:
     languages:
       - idiom: English
         level: Native
+        
+    plcs:
+      - idiom: Rockwell/Allen Bradley
+        level: Expert
+        
+      - idiom: Emerson DeltaV
+        level: Expert    
 
     interests:
       - item: Volleyball
