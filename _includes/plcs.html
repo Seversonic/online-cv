@@ -1,0 +1,19 @@
+{% assign languages = site.data.data.sidebar.plcs %}
+{% if plcs %}
+<div class="controls-container container-block">
+
+  <h2 class="container-block-title">
+    Controls Platform Experience
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for plc in plcs %}
+    <li>
+      {{ plc.idiom }}
+      <span class="plc-desc">({{ plc.level }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
