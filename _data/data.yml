@@ -27,10 +27,20 @@ sidebar:
         
     plcs:
       - idiom: Rockwell/Allen Bradley
-        level: Expert
+        level: (6 years)
+        
+      - idiom: TwinCAT
+        level: (3 years)        
         
       - idiom: Emerson DeltaV
-        level: Expert    
+        level: (5 years) 
+        
+      - idiom: GE/Emerson Rx3i
+        level: (1 year)
+        
+      - idiom: Siemens S7
+        level: (1 year)
+            
 
     interests:
       - item: Volleyball
