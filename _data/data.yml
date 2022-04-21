@@ -76,14 +76,14 @@ experiences:
         Designing and supporting control systems for automated storage and retrieval systems. 
           - PLC and HMI programming (Beckhoff, Siemens)
           - Supporting field service teams with control system implementations
-          - Developing in-house wikis and knowledgebases for troubleshooting machines
-          - Taking prototypes from concept to prototype to commercialization 
+          - Developing in-house wikis and knowledgebases for troubleshooting controls hardware, sensors
+          - Taking machine prototypes from concept to prototype to commercialization 
           - Control panel design
-          - New product development and scoping (equipment selection, validation)
-          - Supporting manufacturing engineering with machine upgrades and troubleshooting
-          - Developing PLC software utilities (C#) for field service teams
+          - New product development and scoping (equipment selection, validation testing)
+          - Supporting manufacturing engineering with CNC and robotic machine integrations
+          - Developing PLC software utilities (C#) for field service engineering teams
           - Managing third party designs for custom in house products
-          - Interpreting and application of IEC standards to machinery designs
+          - Interpreting and applying IEC standards to machinery designs
           
     - role: Control Systems Specialist
       time: September 2013 - January 2019
