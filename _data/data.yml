@@ -155,6 +155,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
+      - name: Google-fu
+        level: 105%
+
       - name: Siemens TIA Portal
         level: 40%
 
