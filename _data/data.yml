@@ -159,18 +159,12 @@ skills:
     
       - name: Google-fu
         level: 105%
-
-      - name: Siemens TIA Portal
-        level: 40%
-
-      - name: HTML5 & CSS
-        level: 35%
-
-      - name: Electrical Design
-        level: 50%
-
-      - name: Docker
-        level: 50%
+        
+      - name: Windows 
+        level: 90%
+        
+      - name: Microsoft Office 
+        level: 95%        
         
       - name: Networking
         level: 70%
@@ -178,11 +172,20 @@ skills:
       - name: Linux
         level: 70%
         
-      - name: Windows 
-        level: 90%
+      - name: Visual Basic
+        level: 70%
         
-      - name: Microsoft Office 
-        level: 95%
+      - name: Electrical Design
+        level: 60%
+
+      - name: Powershell/Bash
+        level: 45%        
+
+      - name: Docker
+        level: 40%
+        
+      - name: HTML5 & CSS
+        level: 35%        
 
 
 footer: >
