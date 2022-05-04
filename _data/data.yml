@@ -178,7 +178,10 @@ skills:
         
       - name: Electrical Design
         level: 60%
-
+        
+      - name: AutoCAD 2D
+        level: 50%
+        
       - name: Powershell/Bash
         level: 45%        
 
