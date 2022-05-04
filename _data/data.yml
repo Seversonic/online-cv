@@ -23,7 +23,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: 
+        level: Proficient
         
     plcs:
       - idiom: Rockwell/Allen Bradley
@@ -160,12 +160,12 @@ skills:
     
       - name: Google-fu
         level: 105%
-        
-      - name: Windows 
-        level: 90%
-        
+
       - name: Microsoft Office 
-        level: 95%        
+        level: 95%  
+
+      - name: Windows 
+        level: 90%      
         
       - name: Networking
         level: 70%
