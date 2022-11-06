@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Ryan Severson C.E.T.
+    name: Ryan Severson P.L.(Eng.)
     tagline: Industrial Automation Specialist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -55,14 +55,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Self directed self starter and expert problem solver. Passionate about learing, creating, sharing, and most importantly; about the devices that make the world work! 
+      Self directed self starter and expert problem solver. Passionate about learning, creating, sharing, and most importantly; about the devices that make the world work! 
       Experienced with process control, power generation, warehouse automation, R&D, product development and networking. 
-      Currently exploring Object Orientated programming (industrially), Docker, Cybersecurity, TwinCAT, Codesys and contributing to open source learning initiatives and software. Always tinkering at home and work, 
+      Currently exploring Object Orientated programming (industrially), Docker, Home Automation, Cybersecurity, TwinCAT, Codesys and contributing to open source learning initiatives and software. Always tinkering at home and work, 
       applying what I learn, and helping others grow. 
 
+credentials:
+    - role: Professional Licensee (Engineering)
+      time: September 2022 - Present
+      company: APEGA
+      details: |
+        Electrical Engineering in the field of automation and control systems: 
+          - Programming, evaluating, advising on, and reporting on: Distributed Control Systems (DCSs) and Programmable Logic Controllers (PLCs).
+          - Designing, evaluating, advising on, reporting on, and preparing plans and specifications for: Automation control panels and related power systems up to 208VAC
+
 experiences:
+    - role: Automation Specialist
+      time: July 2022 - Present
+      company: Cask Global Canning Solutions, Calgary, AB
+      details: |
+        Developing new automated products for the micro canning industry
+          - Creating automated factory testing tools/software
+          - Researching and implementing IoT/IIoT platforms
+          - Supporting complex technical issues for existing customers
+        
+
     - role: Electrical Specialist
-      time: February 2022 - Present
+      time: February 2022 - July 2022
       company: Propak Systems Ltd., Airdrie, AB
       details: |
         Design and development of specifications for control systems, and power systems for use in industrial processing facilities. 
@@ -102,6 +121,12 @@ experiences:
           - Supporting clients remotely and on site for control system upgrades, failures, and training
           
 trainings:
+    - role: P.L.(Eng)
+      time: September 2022
+      company: APEGA
+      details: |
+        Designation as a Professional Licensee in Engineering in the province of Alberta. Scope of practice is: 
+
     - role: Ignition Certification 8.1
       time: January 2021
       company: Inductive University
