@@ -68,6 +68,11 @@ credentials:
         Electrical Engineering in the field of automation and control systems: 
           - Programming, evaluating, advising on, and reporting on: Distributed Control Systems (DCSs) and Programmable Logic Controllers (PLCs).
           - Designing, evaluating, advising on, reporting on, and preparing plans and specifications for: Automation control panels and related power systems up to 208VAC
+    
+    - role: Certified Engineering Technologist
+      time: 2015 - 2022
+      company: ASET
+
 
 experiences:
     - role: Automation Specialist
