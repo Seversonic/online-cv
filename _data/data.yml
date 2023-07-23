@@ -126,6 +126,10 @@ experiences:
           - Supporting clients remotely and on site for control system upgrades, failures, and training
           
 trainings:
+    - role: Certified Machine Safety Expert
+      time: February 2023
+      company: Pilz/TÜV NORD
+      
     - role: Ignition Certification 8.1
       time: January 2021
       company: Inductive University
