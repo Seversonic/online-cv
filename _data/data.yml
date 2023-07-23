@@ -30,7 +30,10 @@ sidebar:
         level: 6 years
         
       - idiom: TwinCAT
-        level: 3 years        
+        level: 4 years
+        
+      - idiom: CODESYS
+        level: 3 years
         
       - idiom: Emerson DeltaV
         level: 5 years
@@ -40,8 +43,7 @@ sidebar:
         
       - idiom: Siemens S7
         level: 1 year
-            
-
+        
     interests:
       - item: Volleyball
         link:
