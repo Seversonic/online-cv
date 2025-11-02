@@ -8,8 +8,8 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Ryan Severson
+  tagline: Industrial Automation Specialist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -90,96 +90,103 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Systems Technician, Instrumentation and Automation
+    time: 2024 - Present
+    company: Nova Chemicals Inc., Calgary, AB
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Providing maintenance and engineering support for a variety of R&D process equipment and industrial machinery and building automation systems
+        - Proposing and implementing control system upgrades to legacy control systems
+        - Drafting electrical and control schematics (green and as-builts)
+        - Supporting research scientists with Visual Basic and Lab View based utilities
+        - Sourcing and managing external contractors for control system development
+        
+  - role: Automation Specialist
+    time: 2022 - 2024
+    company: Cask Global Canning Solutions, Calgary, AB
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Developing new automated products for the micro canning industry
+        - Creating automated factory testing tools/software
+        - Researching and implementing IoT/IIoT platforms
+        - Supporting complex technical issues for existing customers
+
+
+  - role: Electrical Specialist
+    time: February 2022 - July 2022
+    company: Propak Systems Ltd., Airdrie, AB
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Design and development of specifications for control systems, and power systems for use in industrial processing facilities. 
+        - Interpreting client design specifications
+        - Developing scopes of work packages
+        - Preparing control system specifications and designs  
+
+  - role: Control Systems Specialist
+    time: January 2019 - February 2022
+    company: Attabotics Inc., Calgary, AB
+    details: |
+      Designing and supporting control systems for automated storage and retrieval systems. 
+        - PLC and HMI programming (Beckhoff, Siemens)
+        - Supporting field service teams with control system implementations
+        - Developing in-house wikis and knowledgebases for troubleshooting controls hardware, sensors
+        - Taking machine prototypes from concept to prototype to commercialization 
+        - Control panel design
+        - New product development and scoping (equipment selection, validation testing)
+        - Supporting manufacturing engineering with CNC and robotic machine integrations
+        - Developing PLC software utilities (C#) for field service engineering teams
+        - Managing third party designs for custom in house products
+        - Interpreting and applying IEC standards to machinery designs
+        
+  - role: Control Systems Specialist
+    time: September 2013 - January 2019
+    company: Propak Systems Ltd., Airdrie, AB
+    details: |
+      Development and commissioning and startup support for distributed control systems used in energy production facilities.
+        - DCS, PLC and HMI development (DeltaV, Rockwell, GE)
+        - Configuration of core OT networking equipment (switches, virtualized servers)
+        - Development of standard code libraries for PLCs and DCSs
+        - Integrating Modbus, OPC, and Ethernet/IP devices into site control systems
+        - Creating and maintaining databases in Microsoft Access
+        - Developing utilities to improve workflows (scripting in VBA, powershell)
+        - Troubleshooting instrumentation, networking, and power systems (24VDC - 4160VAC)
+        - Supporting clients remotely and on site for control system upgrades, failures, and training        
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
+  - name: Certified Machine Safety Expert
+    start: 2023
+    end: 2027
+    organization: TÜV NORD (Pilz)
+    credentialid: 
+    credentialurl: https://www.pilz.com/en-CA/trainings/articles/196783
+    credentialname: CSME
+    details: 
       Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: Ignition Certification 8.1
+    start: 2021
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    organization: Inductive Automation 
+    credentialid: 
+    credentialurl: https://inductiveuniversity.com
+    credentialname: Core Certification
+    details: 
+
+    
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    A few things I do for fun!
   assignments:
   - title: TwinCAT Libre
     link: "https://twincat-libre.github.io/"
-    tagline: "Open source libraries and examples for TwinCAT 3"
+    tagline: "Open source libraries and examples for TwinCAT 3 (Beckhoff)"
   - title: Megacmd Docker
     link: "https://github.com/Seversonic/megaCMD-docker"
     tagline: "Docker container for syncing files with Mega online storage"
+  - title: Thingiverse
+    link: "https://www.thingiverse.com/GeneParmesan20/designs"
+    tagline: "Collection of models for 3d printing"    
 
 
 oss:
@@ -191,53 +198,33 @@ oss:
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#publications:
+#  title: Publications
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
+#  papers:
+#  - title: The Art of Computer Programming
+#    link: "#"
+#    authors: Donald E. Knuth
+#    conference: Addison-Wesley, 1968
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      Alan Doe is a super employee!
+#  - person: Lara Henderson
+#    email: larah@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      I would like to work with Alan Doe again!
 
 skills:
   title: Skills &amp; Proficiency
