@@ -78,10 +78,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-      Self directed self starter and expert problem solver. Passionate about learning, creating, sharing, and most importantly; about the devices that make the world work! 
+      Self directed self starter and expert problem solver. Passionate about learning, creating, sharing, and most importantly: about the devices that make the world work! 
       Experienced with process control, power generation, warehouse automation, R&D, product development and networking. 
       Currently exploring Object Orientated programming (industrially), Docker, Home Automation, Cybersecurity, TwinCAT, Codesys and contributing to open source learning initiatives and software. Always tinkering at home and work, 
       applying what I learn, and helping others grow. 
+      Highly experienced Control Systems and Automation Specialist with over a decade of expertise in the design, implementation, and support of advanced automation systems in research laboratories, tech startups, and industrial settings. 
+      Practical, hands-on skills in 3D printing, Python scripting, and mechanical fabrication (including woodworking/carpentry) developed through years of being a home hobbyist. 
+      Proud member of APEGA. 
 
 education:
   title: Education
@@ -107,19 +110,23 @@ experiences:
     company: Nova Chemicals Inc., Calgary, AB
     details: |
       Providing maintenance and engineering support for a variety of R&D process equipment and industrial machinery and building automation systems
-        - Proposing and implementing control system upgrades to legacy control systems
-        - Drafting electrical and control schematics (green and as-builts)
-        - Supporting research scientists with Visual Basic and Lab View based utilities
-        - Sourcing and managing external contractors for control system development
+        - Proposed, designed, and implemented control system modernization projects to upgrade plastics R&D laboratory equipment (30+ years in service)  
+        - Automated complex measurement workflows on equipment (Mitutoyo CMM), turning a manual bench process into an automated procedure using VBA, achieving 90% automation and significantly increasing throughput and consistency 
+        - Sourcing and managing external contractors for custom software development and support 
+        - Created a Python utility to interact with a PLC to read/write thousands of tags
+        - Interpreting and applying machinery safety standards (CSA Z432:23, ISO 13849) to bring outdated extrusion machinery up to modern safety standards
+        - Developed comprehensive control narratives and logic architecture for bespoke, in-house laboratory equipment used in complex experiments
         
   - role: Automation Specialist
     time: 2022 - 2024
     company: Cask Global Canning Solutions, Calgary, AB
     details: |
       Developing new automated products for the micro canning industry
-        - Creating automated factory testing tools/software
-        - Researching and implementing IoT/IIoT platforms
-        - Supporting complex technical issues for existing customers
+        - Developing CodeSys and TwinCAT based PLC systems for beverage canning machinery, taking a design from concept to commercialization
+        - Developed software utilities (using Powershell and C#) to interact with PLCs for data staging, configuration, and system commissioning 
+        - Designed and deployed an IoT data collection system for data acquisition and analysis
+        - Developed software release processes and associated documentation for version management and site deployments
+        - Conducted hazard reviews and functional safety assessments to support CE certification for OEM machinery
 
 
   - role: Electrical Specialist
@@ -136,32 +143,44 @@ experiences:
     company: Attabotics Inc., Calgary, AB
     details: |
       Designing and supporting control systems for automated storage and retrieval systems. 
-        - PLC and HMI programming (Beckhoff, Siemens)
-        - Supporting field service teams with control system implementations
-        - Developing in-house wikis and knowledgebases for troubleshooting controls hardware, sensors
-        - Taking machine prototypes from concept to prototype to commercialization 
-        - Control panel design
-        - New product development and scoping (equipment selection, validation testing)
-        - Supporting manufacturing engineering with CNC and robotic machine integrations
-        - Developing PLC software utilities (C#) for field service engineering teams
-        - Managing third party designs for custom in house products
-        - Interpreting and applying IEC standards to machinery designs
+        - Developed fabrication, testing, and commissioning procedures and documentation for PLC-based control systems in the automated warehousing sector
+        - Designed, assembled, programmed, and implemented PC and PLC (Beckhoff, Siemens) control panels and electrical systems for automated storage and retrieval systems
+        - Worked with in house software developers to integrate custom C# software with PLCs and communicate with peripheral devices (RS-232 bar code scanners and power supplies)
+        - Created prototypes for client demonstrations and trade shows; including mechanical and wiring assemblies for custom fixtures and jigs
+        - Led Root Cause Analysis (RCA) for system incidents (crashes, fires), developing and implementing effective remediation plans through programming updates, procedural changes and hardware changes
+        - Actively identified and implemented improvements to machinery safety, addressing compliance concerns
+        - Created custom C# based software utilities to load and configure PLC code 
         
   - role: Control Systems Specialist
     time: September 2013 - January 2019
     company: Propak Systems Ltd., Airdrie, AB
     details: |
       Development and commissioning and startup support for distributed control systems used in energy production facilities.
-        - DCS, PLC and HMI development (DeltaV, Rockwell, GE)
-        - Configuration of core OT networking equipment (switches, virtualized servers)
-        - Development of standard code libraries for PLCs and DCSs
-        - Integrating Modbus, OPC, and Ethernet/IP devices into site control systems
-        - Creating and maintaining databases in Microsoft Access
-        - Developing utilities to improve workflows (scripting in VBA, powershell)
-        - Troubleshooting instrumentation, networking, and power systems (24VDC - 4160VAC)
-        - Supporting clients remotely and on site for control system upgrades, failures, and training        
+        - Programmed and commissioned control systems (PLCs, DCSs, HMIs, servers), primarily with Emerson DeltaV and Rockwell Factorytalk SE (ControlLogix) based systems
+        - Performed end-to-end system integration, interfacing, PLCs, diverse software applications, and external IT networks with the primary plant control system
+        - Managed control system changes via client Management of Change (MOC) processes, ensuring safe implementation and detailed documentation
+        - Building plant control system logic and architecture by interpreting: P&IDs, electrical schematics, civil layouts, process flow diagrams, cause and effect tables, and equipment manuals
+        - Supported clients remotely and on-site for control system issues, training and updates
+        - Troubleshooted mechanical, electrical, process, software, and networking issues on critical plant equipment (MCCs, servers, generators, switchgear, instrumentation, sensors) 
+        - Integrated a wide array of devices using standard communication protocols: Modbus, Ethernet/IP, Profinet, modbus TCP/IP, and OPC into site SCADA systems 
+        - Deployed and configured virtualized server systems (Hyper-V, vshpere(VMWare) and core networking equipment for distributed control systems       
 
 certifications:
+  title: Certifications
+  list:
+  - name: Professional Licensee in Engineering
+    start: 2022
+    end: 
+    organization: APEGA
+    credentialid: 281610
+    credentialurl: https://www.apega.ca/members/member-directory?term=ryan%20severson&page=1
+    credentialname: P.L.(Eng.)
+    details: |
+      Within the discipline of Electrical Engineering; in the field of automation and control systems:
+      -Programming, evaluating, advising on, and reporting on: Distributed Control Systems (DCS) and Programmable Logic Controllers (PLC).
+      -Designing, evaluating, advising on, reporting on, and preparing plans and specifications for: automation control panels and the related power systems up to and including 208VAC.
+
+
   title: Certifications
   list:
   - name: Certified Machine Safety Expert
@@ -172,7 +191,7 @@ certifications:
     credentialurl: https://www.pilz.com/en-CA/trainings/articles/196783
     credentialname: CSME
     details: 
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
+      
 
   - name: Ignition Certification 8.1
     start: 2021
@@ -181,7 +200,16 @@ certifications:
     credentialid: 
     credentialurl: https://inductiveuniversity.com
     credentialname: Core Certification
-    details: 
+    details:
+    
+  - name: Certified Engineering Technologist
+    start: 2015
+    end: 2023
+    organization: ASET
+    credentialid: 
+    credentialurl: https://aset.ab.ca/
+    credentialname: C.E.T.
+    details:    
 
     
 
@@ -201,14 +229,14 @@ projects:
     tagline: "Collection of models for 3d printing"    
 
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#oss:
+#  title: OSS Contributions
+#  intro: >
+#    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  contributions:
+#  - title: Tempo
+#    link: "#"
+#    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 #publications:
 #  title: Publications
@@ -249,15 +277,15 @@ skills:
     level: 95%  
 
   - name: Windows 
-    level: 90%      
-        
-  - name: Networking
+    level: 90%
+    
+  - name: Visual Basic (VBA)
+    level: 85%        
+    
+  - name: IT Networking
     level: 70%
     
   - name: Linux
-    level: 70%
-    
-  - name: Visual Basic (VBA)
     level: 70%
     
   - name: Electrical Design
