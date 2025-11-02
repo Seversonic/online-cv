@@ -1,0 +1,19 @@
+{% assign plcs = site.data.data.sidebar.plcs %}
+{% if plcs %}
+<div class="plcs-container container-block">
+
+  <h2 class="container-block-title">
+    Platform Experience
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for plc in plcs %}
+    <li>
+      {{ plc.idiom }}
+      <span class="plc-desc">({{ plc.level }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
