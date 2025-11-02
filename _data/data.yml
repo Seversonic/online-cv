@@ -40,26 +40,26 @@ sidebar:
     - idiom: English
       level: Native
 
-    plcs:
-      title: PLCs
-      info:
-        - idiom: Rockwell/Allen Bradley
-          level: 6 years
-          
-        - idiom: TwinCAT
-          level: 6 years
-          
-        - idiom: CODESYS
-          level: 3 years
-          
-        - idiom: Emerson DeltaV
-          level: 5 years
-          
-        - idiom: GE/Emerson Rx3i
-          level: 1 year
-          
-        - idiom: Siemens S7
-          level: 3 year
+  plcs:
+    title: PLCs
+    info:
+      - idiom: Rockwell/Allen Bradley
+        level: 6 years
+        
+      - idiom: TwinCAT
+        level: 6 years
+        
+      - idiom: CODESYS
+        level: 3 years
+        
+      - idiom: Emerson DeltaV
+        level: 5 years
+        
+      - idiom: GE/Emerson Rx3i
+        level: 1 year
+        
+      - idiom: Siemens S7
+        level: 3 year
 
 
   interests:
