@@ -17,7 +17,7 @@ sidebar:
   phone: 
   timezone: America/Edmonton # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Canadian
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website:  # Include the full website URL, including "http://" or "https://".
   linkedin: ryan-severson
   xing: 
   github: Seversonic
@@ -66,26 +66,16 @@ education:
   info:
   - degree: Electrical Engineering Technology (Honours)
     university: Southern Alberta Institute of Technology
-    time: 22010 - 2013
+    time: 2010 - 2013
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Studying power systems, generation, and automation. Major capstone project in automating a loadbank
+
   - degree: AutoCAD Operator Certificate
     university: Bow Valley College
     time: 2010
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Design and drafting in AutoCAD for 2D and 3D applications. AutoLISP scripting. 
+
 
 experiences:
   title: Experiences
