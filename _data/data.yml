@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  email: 
+  phone: 
+  timezone: America/Edmonton # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Canadian
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: ryan-severson
+  xing: 
+  github: Seversonic
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,42 +40,33 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
+      - item: Volleyball
+        link:
 
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
+      - item: Software Development
+        link:
+        
+      - item: Crosscountry Skiing
+        link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+      Self directed self starter and expert problem solver. Passionate about learning, creating, sharing, and most importantly; about the devices that make the world work! 
+      Experienced with process control, power generation, warehouse automation, R&D, product development and networking. 
+      Currently exploring Object Orientated programming (industrially), Docker, Home Automation, Cybersecurity, TwinCAT, Codesys and contributing to open source learning initiatives and software. Always tinkering at home and work, 
+      applying what I learn, and helping others grow. 
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Electrical Engineering Technology (Honours)
+    university: Southern Alberta Institute of Technology
+    time: 22010 - 2013
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +75,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: AutoCAD Operator Certificate
+    university: Bow Valley College
+    time: 2010
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -183,25 +174,13 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: TwinCAT Libre
+    link: "https://twincat-libre.github.io/"
+    tagline: "Open source libraries and examples for TwinCAT 3"
+  - title: Megacmd Docker
+    link: "https://github.com/Seversonic/megaCMD-docker"
+    tagline: "Docker container for syncing files with Mega online storage"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
   title: OSS Contributions
@@ -264,23 +243,38 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Google-fu
+    level: 105%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Microsoft Office 
+    level: 95%  
 
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
+  - name: Windows 
+    level: 90%      
+        
+  - name: Networking
+    level: 70%
+    
+  - name: Linux
+    level: 70%
+    
+  - name: Visual Basic (VBA)
+    level: 70%
+    
+  - name: Electrical Design
     level: 60%
+    
+  - name: AutoCAD 2D
+    level: 50%
+    
+  - name: Powershell/Bash
+    level: 45%        
+
+  - name: Docker
+    level: 40%
+    
+  - name: HTML5 & CSS
+    level: 35%     
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
