@@ -3,11 +3,11 @@
 <div class="plcs-container container-block">
 
   <h2 class="container-block-title">
-    Platform Experience
+    PLC Platform Experience
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for plc in plcs %}
+    {%for plc in plcs.info %}
     <li>
       {{ plc.idiom }}
       <span class="plc-desc">({{ plc.level }})</span>
