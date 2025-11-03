@@ -171,9 +171,9 @@ certifications:
   list:
   - name: Professional Licensee in Engineering
     start: 2022
-    end: 2090
+    end: 
     organization: APEGA
-    credentialid: 281610
+    credentialid: 
     credentialurl: https://www.apega.ca/members/member-directory?term=ryan%20severson&page=1
     credentialname: P.L.(Eng.)
     details: |
@@ -182,8 +182,6 @@ certifications:
       -Designing, evaluating, advising on, reporting on, and preparing plans and specifications for: automation control panels and the related power systems up to and including 208VAC.
 
 
-  title: Certifications
-  list:
   - name: Certified Machine Safety Expert
     start: 2023
     end: 2027
