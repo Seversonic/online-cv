@@ -174,7 +174,7 @@ certifications:
     end: 
     organization: APEGA
     credentialid: 
-    credentialurl: https://www.apega.ca/members/member-directory?term=ryan%20severson&page=1
+    credentialurl: www.apega.ca/members/member-directory?term=ryan%20severson&page=1
     credentialname: P.L.(Eng.)
     details: |
       Within the discipline of Electrical Engineering; in the field of automation and control systems:
@@ -187,7 +187,7 @@ certifications:
     end: 2027
     organization: TÜV NORD (Pilz)
     credentialid: 
-    credentialurl: https://www.pilz.com/en-CA/trainings/articles/196783
+    credentialurl: www.pilz.com/en-CA/trainings/articles/196783
     credentialname: CSME
     details: 
       
@@ -197,7 +197,7 @@ certifications:
     end:
     organization: Inductive Automation 
     credentialid: 
-    credentialurl: https://inductiveuniversity.com
+    credentialurl: inductiveuniversity.com
     credentialname: Core Certification
     details:
     
