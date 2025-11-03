@@ -12,6 +12,7 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
+    
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
@@ -31,6 +32,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.thingiverse %}
+    <li class="thingiverse"><i class="fas fa-cubes"></i>
+      <a href="https://www.thingiverse.com/{{ sidebar.thingiverse }}/designs" target="_blank">{{ sidebar.thingiverse }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
