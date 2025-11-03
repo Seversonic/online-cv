@@ -266,12 +266,12 @@ projects:
 #      I would like to work with Alan Doe again!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiencies
 
   toolset:
   - name: Google-fu
     level: 105%
-
+    
   - name: Microsoft Office 
     level: 95%  
 
@@ -290,7 +290,10 @@ skills:
   - name: Electrical Design
     level: 60%
     
-  - name: AutoCAD 2D
+  - name: AutoCAD 2D/Electrical
+    level: 50%
+
+  - name: Fusion 3D
     level: 50%
     
   - name: Powershell/Bash
@@ -301,6 +304,9 @@ skills:
     
   - name: HTML5 & CSS
     level: 35%     
+
+  - name: AI
+    level: 35%        
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
