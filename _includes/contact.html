@@ -31,12 +31,6 @@
       <a href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
     </li>
     {% endif %}
-
-    {% if sidebar.thingiverse %}
-    <li class="thingiverse"><i class="fas fa-cubes"></i>
-      <a href="https://www.thingiverse.com/{{ sidebar.thingiverse }}/designs" target="_blank">{{ sidebar.thingiverse }}</a>
-    </li>
-    {% endif %}
     
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
@@ -127,6 +121,12 @@
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
       <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.thingiverse %}
+    <li class="thingiverse"><i class="fas fa-cubes"></i>
+      <a href="https://www.thingiverse.com/{{ sidebar.thingiverse }}/designs" target="_blank">{{ sidebar.thingiverse }}</a>
     </li>
     {% endif %}
 
