@@ -271,6 +271,12 @@ skills:
   toolset:
   - name: Google-fu
     level: 105%
+
+  - name: Vibe Coding
+    level: 30%
+
+  - name: Actual Coding
+    level: 80%
     
   - name: Microsoft Office 
     level: 95%  
