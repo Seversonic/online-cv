@@ -210,6 +210,16 @@ certifications:
     details:    
 
     
+selected_work:
+  title: Selected Work
+  intro: >
+    Full write-ups of representative projects — migrations, diagnostics,
+    and one-off machines.
+  assignments:
+    - title: "PLC-5 → ControlLogix/PlantPAx Migration"
+      link: "/work/plc5-plantpax-migration/"
+      tagline: "Solo end-to-end migration: reprogramming, network redesign, and virtualized server build."
+
 
 projects:
   title: Projects
