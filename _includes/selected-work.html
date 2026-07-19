@@ -1,0 +1,38 @@
+{% assign work = site.data.data.selected_work %}
+{% if work %}
+<section class="section selected-work-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-cogs fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ work.title }}
+  </h2>
+
+  {% if work.intro %}
+  <div class="intro">
+      <p>{{ work.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for item in work.assignments %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if item.link %}
+        <a href="{{ item.link | relative_url }}">{{ item.title }}</a>
+        {% else %}
+        {{ item.title }}
+        {% endif %}
+      </span>
+
+      {% if item.tagline %}
+      - <span class="project-tagline">{{ item.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
