@@ -80,8 +80,11 @@ career-profile:
   title: Career Profile
   summary: | 
       13 years building and fixing industrial control systems — DCS, PLC, OT networks, IIoT — across oil and gas, chemical research, warehouse robotics, and packaging machinery. 
+      
       Greenfield, brownfield, full plants, pilot plants, robotics, product development, plant support, and bespoke laboratory/R&D automation equipment. 
+      
       Based in Calgary. Open to contract work (large or small), commissioning projects, and international engagements.
+
 education:
   title: Education
   info:
@@ -101,11 +104,9 @@ experiences:
     details: |
         - Solo PLC-5 to ControlLogix/PlantPAx migration, end to end — reprogramming, network redesign, and server build
         - Built an automated sampling station from scratch — design, controls, and commissioning
-        - Designed and scoped a $1M replacement for a 30-year-old control system, including the proposals and bid packages for outside vendors        - Reverse-engineered and rebuilt lost shutdown keys (cause-and-effect matrices) for legacy systems, found logic errors in the originals, and proposed fail-safe fixes
         - Supported controls-side design reviews, HAZOPs, and LOPAs for polypropylene plant upgrades against machinery safety standards (CSA Z432:23, ISO 13849)
         - Worked with the OT cybersecurity team to segment and harden the plant network
         - Took over a legacy HVAC BMS and dropped in a BACnet/Modbus converter to get modern air-compressor controllers talking to it
-        - Did in-house PLC upgrades, HMI work, and field device integration over Modbus TCP/IP (Rockwell, Siemens)
         - Was the controls SME when vendors came in to work on the extrusion machinery — checked their work and signed off FAT/SAT
 
         
