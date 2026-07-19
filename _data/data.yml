@@ -262,41 +262,15 @@ projects:
 
 skills:
   title: Skills &amp; Proficiencies
-
-  toolset:
-
-  - name: Controls Integration (refrigeration, compression, HVAC/BMS, skids)
-    level: 90%
-
-  - name: Industrial Protocols (Modbus TCP/IP, BACnet, EtherNet/IP, Profinet, OPC)
-    level: 95%
-
-  - name: Functional & Machine Safety (CSA Z432, ISO 13849, HAZOP, LOPA, CE)
-    level: 90%
-
-  - name: Cause-and-Effect / Shutdown Keys / Control Narratives / Sequence of Operations
-    level: 95%
-
-  - name: Commissioning (FAT / SAT / HAT, loop checking, startup)
-    level: 95%
-
-  - name: OT Cybersecurity & Network Segmentation
-    level: 75%
-
-  - name: Virtualization (Hyper-V, VMware vSphere)
-    level: 80%
-
-  - name: Powershell / C# / Python / VBA
-    level: 80%
-
-  - name: Electrical Design / AutoCAD Electrical
-    level: 60%
-
-  - name: Fusion 3D
-    level: 50%
-
-  - name: Docker / Linux
-    level: 55%
+  groups:
+  - name: Controls & commissioning
+    items: "FAT/SAT/HAT, loop checks, startup, shutdown keys, control narratives, skid and vendor package integration"
+  - name: Protocols & networks
+    items: "Modbus TCP/IP, EtherNet/IP, Profinet, OPC, BACnet, OT segmentation and hardening"
+  - name: Software & infrastructure
+    items: "C#, Python, PowerShell, Docker, Linux, Hyper-V, VMware vSphere"
+  - name: Design & safety
+    items: "AutoCAD Electrical, Fusion 360, CSA Z432, ISO 13849, HAZOP/LOPA support, CE marking"
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
