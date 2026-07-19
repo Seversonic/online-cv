@@ -8,14 +8,37 @@
     {{ skills.title }}
   </h2>
 
-  <div class="skillset">
-    {% for skill in skills.toolset %}
-    <div class="item">
-      <h3 class="level-title">{{ skill.name }}</h3>
+  <div class="skills-groups">
+    {% for group in skills.groups %}
+    <div class="skills-group">
+      <h3>{{ group.name }}</h3>
+      <p>{{ group.items }}</p>
     </div>
-    <!--//item-->
     {% endfor %}
   </div>
 </section>
-<!--//skills-section-->
+
+<style>
+  .skills-groups {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px 32px;
+  }
+  .skills-group h3 {
+    font-size: 15px;
+    margin: 0 0 4px;
+  }
+  .skills-group p {
+    font-size: 14px;
+    line-height: 1.55;
+    margin: 0;
+    color: #778492;
+  }
+  @media (max-width: 767px) {
+    .skills-groups { grid-template-columns: 1fr; }
+  }
+  @media print {
+    .skills-groups { grid-template-columns: 1fr 1fr; gap: 10px 24px; }
+  }
+</style>
 {% endif %}
